@@ -1,4 +1,4 @@
-#include <stdio>
+#include <main.h>
 /**
  * print_numbers - to print 0 to 9
  * Return: void
